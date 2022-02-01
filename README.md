@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jttrey3 but you can call me John
 - 👀 I’m interested in infosec, Python, PowerShell, and microcontrollers, then sharing what I learn.
-- 🌱 I’m currently learning Arduino flavored C
+- 🌱 I’m currently learning Arduino flavored C and GitHub
 - 📫 Email me using jttrey3@yahoo.com {Yes, a yahoo email.  I am an old fart, don't judge me  :) }
 
 <!---
